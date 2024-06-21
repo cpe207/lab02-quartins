@@ -1,0 +1,125 @@
+body{
+    background-color: #FFF785;
+}
+
+.center-header h1{
+    text-align: center;
+    font-style: italic;
+    color: aliceblue;
+    background-color: #151c36;
+    
+    padding: 50px;
+    width: auto;
+    margin: auto;
+}
+
+.header h2{
+    text-align: right;
+    color: antiquewhite;
+    background-color: #485778;
+    padding: 5px;
+    width: auto;
+    margin: auto;
+}
+
+.header a{
+    color: #ffffff;
+    text-decoration: none;
+    
+}
+
+img{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    font-family: Sriracha; 
+}
+
+p{
+    text-align: center;
+    font-family: Sriracha; 
+}
+
+.text1{
+        text-align: center;
+        margin: 5px;
+       
+        margin-left: auto;
+        margin-right: auto;
+        padding: 1rem;
+        margin-bottom: 10px;
+}
+img{
+    margin: 20px;
+}
+
+.header2{
+    color: brown;
+    text-align: center;
+    font-style: italic;
+}
+
+.text3{
+    color: brown;
+    text-align: center;
+    font-style: italic;
+}
+
+.text4{
+    text-align: center;
+    background-color: bisque;
+    border: solid #485778;
+    margin: 20px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+}
+
+.text-skill{
+    text-align: center;
+    background-color: bisque;
+    border: solid #485778;
+    margin: 20px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+}
+
+.text2{
+    color: brown;
+    text-align: center;
+    font-style: italic;
+}
+
+.exp1{
+    font-family: Sriracha;
+    text-align: center;
+    background-color: bisque;
+    border: solid #485778;
+    margin: 10px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+}
+
+
+.exp2{
+    font-family: Sriracha;
+    text-align: center;
+    background-color: bisque;
+    border: solid #485778;
+    margin: 10px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+}
